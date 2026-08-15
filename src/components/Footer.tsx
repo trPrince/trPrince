@@ -9,9 +9,7 @@ export function Footer() {
         <p>
           &copy; {year} {profile.name}. All rights reserved.
         </p>
-        <p>
-          Built with Next.js &middot; Deployed on GitHub Pages
-        </p>
+        <p>Built with Next.js &middot; Deployed on GitHub Pages</p>
       </div>
     </footer>
   );

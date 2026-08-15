@@ -8,9 +8,7 @@ export function Projects() {
         <h2 className="mb-2 text-sm font-semibold uppercase tracking-widest text-accent">
           Projects
         </h2>
-        <p className="mb-8 text-3xl font-bold text-foreground">
-          Featured work
-        </p>
+        <p className="mb-8 text-3xl font-bold text-foreground">Featured work</p>
 
         <div className="grid gap-6 md:grid-cols-2">
           {experience.projects.map((project) => (

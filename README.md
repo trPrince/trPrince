@@ -35,12 +35,12 @@ DevOps Engineer with experience automating deployments, managing CI/CD pipelines
 
 ## Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
+| Project             | Description                                                                                       | Link                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | **Flute & Trumpet** | Healthcare federated learning platforms — CI/CD with GitHub Actions on self-hosted runners, Azure | [flute.iw.technovativesolutions.co.uk](https://flute.iw.technovativesolutions.co.uk) |
-| **BYO-DPP** | Digital Product Passport — multi-env CI/CD, ArgoCD GitOps, Helm charts | [digiprodpass.com](https://digiprodpass.com) |
-| **JIDEP** | Industrial data exchange — GHCR, DigitalOcean K8s, Hardhat smart contracts | [jidep.co](https://jidep.co) |
-| **Albatross** | Battery engineering research platform — Vue.js website | [albatross-h2020.eu](https://albatross-h2020.eu) |
+| **BYO-DPP**         | Digital Product Passport — multi-env CI/CD, ArgoCD GitOps, Helm charts                            | [digiprodpass.com](https://digiprodpass.com)                                         |
+| **JIDEP**           | Industrial data exchange — GHCR, DigitalOcean K8s, Hardhat smart contracts                        | [jidep.co](https://jidep.co)                                                         |
+| **Albatross**       | Battery engineering research platform — Vue.js website                                            | [albatross-h2020.eu](https://albatross-h2020.eu)                                     |
 
 ---
 

@@ -3,10 +3,12 @@
 After pushing this repository to `trPrince/trPrince`, enable GitHub Pages:
 
 1. Go to **Settings → Pages**
-2. Under **Build and deployment**, set **Source** to **Deploy from a branch**
-3. Select branch **`main`** and folder **`/site`**
-4. Click **Save**
-5. Wait 2–5 minutes for the site to go live at [https://trprince.github.io](https://trprince.github.io)
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**
+3. Push to `main` (or run the **Deploy to GitHub Pages** workflow manually)
+4. Wait 2–5 minutes for the site to go live at [https://trprince.github.io](https://trprince.github.io)
+
+The workflow builds the Next.js static export and publishes the `out/` artifact using
+`actions/upload-pages-artifact` and `actions/deploy-pages`.
 
 ## Local development
 
@@ -17,13 +19,21 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## Build for GitHub Pages
+## Local build
 
 ```bash
-npm run build:site
+npm run build
 ```
 
-This exports the Next.js app to the `site/` folder, which GitHub Pages serves.
+Static files are written to `out/`.
+
+## Git hooks (Husky)
+
+| Hook         | Action                                                           |
+| ------------ | ---------------------------------------------------------------- |
+| `commit-msg` | Validates Conventional Commits (`feat:`, `fix:`, `chore:`, etc.) |
+| `pre-commit` | Runs ESLint and Prettier on staged files                         |
+| `pre-push`   | Runs `npm run build`                                             |
 
 ## Repository settings (recommended)
 

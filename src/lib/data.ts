@@ -41,7 +41,15 @@ export const skillGroups = [
   },
   {
     category: "Web & Frameworks",
-    skills: ["Next.js", "React.js", "Vue.js", "Hardhat", "ethers.js", "Gun.js", "Odoo"],
+    skills: [
+      "Next.js",
+      "React.js",
+      "Vue.js",
+      "Hardhat",
+      "ethers.js",
+      "Gun.js",
+      "Odoo",
+    ],
   },
   {
     category: "Tools",
@@ -56,7 +64,8 @@ export const experience = {
   projects: [
     {
       name: "Flute & Trumpet",
-      description: "Healthcare federated learning platforms for healthcare research",
+      description:
+        "Healthcare federated learning platforms for healthcare research",
       url: "https://flute.iw.technovativesolutions.co.uk",
       highlights: [
         "Automate deployments and Slack alerts through CI/CD pipelines using GitHub Actions on self-hosted runners",
@@ -80,7 +89,8 @@ export const experience = {
     },
     {
       name: "JIDEP",
-      description: "Joint Industrial Data Exchange Platform for a more circular industry",
+      description:
+        "Joint Industrial Data Exchange Platform for a more circular industry",
       url: "https://jidep.co",
       highlights: [
         "Prepared and maintained CI/CD pipelines using GitHub Actions to build Docker images, store in GHCR, and deploy to DigitalOcean managed K8s",
@@ -88,15 +98,21 @@ export const experience = {
         "Developed RESTful APIs using Express for distributed data storage with Gun.js",
         "Developed the platform using Odoo (Python MVC backend, OWL JS framework frontend)",
       ],
-      tags: ["GitHub Actions", "GHCR", "DigitalOcean K8s", "Hardhat", "Gun.js", "Odoo"],
+      tags: [
+        "GitHub Actions",
+        "GHCR",
+        "DigitalOcean K8s",
+        "Hardhat",
+        "Gun.js",
+        "Odoo",
+      ],
     },
     {
       name: "Albatross",
-      description: "Knowledge-based engineering approach to develop better batteries for vehicles",
+      description:
+        "Knowledge-based engineering approach to develop better batteries for vehicles",
       url: "https://albatross-h2020.eu",
-      highlights: [
-        "Developed the project website using Vue.js",
-      ],
+      highlights: ["Developed the project website using Vue.js"],
       tags: ["Vue.js"],
     },
   ],
