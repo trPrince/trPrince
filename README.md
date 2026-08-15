@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi, I'm Prince 👋
 
-## Getting Started
+**DevOps Engineer | CI/CD, Kubernetes, Azure, Terraform**
 
-First, run the development server:
+DevOps Engineer with experience automating deployments, managing CI/CD pipelines, and orchestrating containerized environments in Azure and DigitalOcean. A strong full-stack background enables deep visibility throughout the development lifecycle. Currently **learning AWS** and preparing for the **AWS Solutions Architect Associate (SAA)** certification.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-trprince.github.io-blue?style=flat-square&logo=github)](https://trprince.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanjiqur-rahman-prince)
+[![Email](https://img.shields.io/badge/Email-tanjiqprince@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanjiqprince@gmail.com)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About Me
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🔭 Working as **Full-Stack & DevOps Engineer** at Indetechs Software Limited
+- 🌱 Currently learning **AWS** and preparing for **AWS SAA** certification
+- 💼 Experienced in **GitHub Actions**, **ArgoCD**, **Kubernetes**, **Helm**, and **Terraform**
+- 🌍 Based in **Dhaka, Bangladesh**
+- 📫 Reach me at **tanjiqprince@gmail.com**
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Featured Projects
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| Project | Description | Link |
+|---------|-------------|------|
+| **Flute & Trumpet** | Healthcare federated learning platforms — CI/CD with GitHub Actions on self-hosted runners, Azure | [flute.iw.technovativesolutions.co.uk](https://flute.iw.technovativesolutions.co.uk) |
+| **BYO-DPP** | Digital Product Passport — multi-env CI/CD, ArgoCD GitOps, Helm charts | [digiprodpass.com](https://digiprodpass.com) |
+| **JIDEP** | Industrial data exchange — GHCR, DigitalOcean K8s, Hardhat smart contracts | [jidep.co](https://jidep.co) |
+| **Albatross** | Battery engineering research platform — Vue.js website | [albatross-h2020.eu](https://albatross-h2020.eu) |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Portfolio
+
+Full portfolio with experience, skills, and contact details:
+
+**[trprince.github.io](https://trprince.github.io)**
+
+---
+
+<p align="center">
+  <i>Open to opportunities · Last updated: August 2026</i>
+</p>
