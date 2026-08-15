@@ -1,3 +1,5 @@
+import { basePath } from "./site";
+
 export const profile = {
   name: "Md Tanjiqur Rahman Prince",
   title: "DevOps Engineer",
@@ -7,7 +9,7 @@ export const profile = {
   phone: "+8801792615335",
   linkedin: "https://linkedin.com/in/tanjiqur-rahman-prince",
   github: "https://github.com/trPrince",
-  resumePath: "/DevOps_Resume_Prince.pdf",
+  resumePath: `${basePath}/DevOps_Resume_Prince.pdf`,
 };
 
 export const about = {
